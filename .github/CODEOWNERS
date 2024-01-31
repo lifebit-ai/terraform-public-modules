@@ -1,4 +1,1 @@
 * @lifebit-ai/infra-members
-#INFRASTRUCTURE
-.github/workflows @lifebit-ai/infra-members
-.github/CODEOWNERS @lifebit-ai/infra-members #please change it here: https://github.com/lifebit-ai/lifebit-github-repositories/blob/main/github/config.hcl
